@@ -4,3 +4,5 @@ FigureArea/bin/
 FigureArea/obj/
 packages/MSTest.TestAdapter.1.2.0/
 packages/
+.vs/
+FigureArea/FigureArea.csproj.user
